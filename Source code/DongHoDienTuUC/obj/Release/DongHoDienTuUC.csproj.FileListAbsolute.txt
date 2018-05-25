@@ -1,0 +1,9 @@
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\bin\Release\DongHoDienTuUC.exe.config
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\bin\Release\DongHoDienTuUC.exe
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\bin\Release\DongHoDienTuUC.pdb
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.DongHoDienTu.resources
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.Form1.resources
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.Properties.Resources.resources
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.csproj.GenerateResource.Cache
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.exe
+C:\Users\damva\Desktop\DongHoDienTuUC\DongHoDienTuUC\obj\Release\DongHoDienTuUC.pdb
